@@ -1,0 +1,23 @@
+.swiper {
+    width: 100%;
+    margin-bottom: 30px; /* Add space below the slider */
+    padding: 0; /* Remove vertical padding */
+  }
+  
+  .swiper-slide {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    height: 250px; /* Set consistent height */
+  }
+  
+  .bg-gray-800 {
+    min-width: 280px; /* Ensure proper card size */
+  }
+  
+  .sliding-cards {
+    margin-bottom: 50px; /* Add space for the slider */
+  }
+  
+
+  
